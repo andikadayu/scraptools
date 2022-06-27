@@ -1,0 +1,53 @@
+{
+    "version": "2.0",
+    "version_list": [
+        "1.0",
+        "2.0"
+    ],
+    "delay_time": 3,
+    "export_file_name": "shopee",
+    "chromedriver_path": "./chromedriver",
+    "lang": "en",
+    "lang_data": {
+        "id": {
+            "message_box_title_info": "Informasi",
+            "message_box_message_info": "Lengkapi Data",
+            "message_box_title_error": "Kesalahan",
+            "message_box_message_error": "Terjadi kesalahan pada ID: ",
+            "message_box_title_success": "Berhasil",
+            "message_box_message_success": "Data berhasil disimpan",
+            "button_process": "Proses",
+            "placeholder_text": "Shop ID dipisahkan dengan Enter (↩)"
+        },
+        "en": {
+            "message_box_title_info": "Information",
+            "message_box_message_info": "Complete a Data",
+            "message_box_title_error": "Error",
+            "message_box_message_error": "Something went wrong on ID: ",
+            "message_box_title_success": "Success",
+            "message_box_message_success": "Data successfully saved",
+            "button_process": "Process",
+            "placeholder_text": "Shop ID separate by Enter (↩)"
+        },
+        "cn": {
+            "message_box_title_info": "信息",
+            "message_box_message_info": "完成数据",
+            "message_box_title_error": "错误",
+            "message_box_message_error": "发生错误的ID: ",
+            "message_box_title_success": "成功",
+            "message_box_message_success": "数据成功保存",
+            "button_process": "过程",
+            "placeholder_text": "Shop ID 按 Enter 分隔 (↩)"
+        },
+        "jp": {
+            "message_box_title_info": "情報",
+            "message_box_message_info": "データを完成させる",
+            "message_box_title_error": "エラー",
+            "message_box_message_error": "ID: にエラーが発生しました",
+            "message_box_title_success": "成功",
+            "message_box_message_success": "データが正常に保存されました",
+            "button_process": "プロセス",
+            "placeholder_text": "Shop ID Enter で区切る (↩)"
+        }
+    }
+}
